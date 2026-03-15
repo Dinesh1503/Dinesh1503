@@ -1,6 +1,23 @@
-# Dinesh &nbsp;·&nbsp; AI & Backend Engineer
+# Hi, I'm Dinesh 👋
 
-> MSc Artificial Intelligence · University of Surrey &nbsp;|&nbsp; Based in UAE &nbsp;|&nbsp; Open to ML/AI & Backend roles
+> MSc Artificial Intelligence · University of Surrey &nbsp;|&nbsp; Based in UAE
+
+I'm an AI/ML engineer with a background in computer vision, NLP, and backend development. I enjoy building end-to-end systems that are practical, local-first, and technically grounded — not just API wrappers.
+
+I'm currently open to **ML/AI Engineer**, **Backend Engineer**, and **MLOps** roles across the UAE, India, and the UK.
+
+---
+
+## 🚀 Projects
+
+**[Semantic Image Search Engine](https://github.com/Dinesh1503/Semantic-Image-Search-Engine)**
+A privacy-preserving image retrieval system that runs entirely on-device. Uses Qwen3-VL to generate structured captions, stores 1024-dimensional embeddings in PostgreSQL with pgvector, and retrieves images via cosine similarity search. Built with FastAPI and React.
+
+**Heart Murmur Detection**
+Classified heart murmurs from clinical tabular data using Random Forest on the PhysioNet dataset. Applied K-Means clustering to handle missing values in a sparse real-world dataset.
+
+**CNN vs ViT for Medical Image Classification**
+Comparative study of 9 CNN, ViT, and hybrid architectures on 50,000 medical images for COVID-19 classification. Evaluated feature representations across early, middle, and late layers.
 
 ---
 
@@ -16,15 +33,12 @@
 
 ---
 
-## 📌 Featured Project
-
-**[Semantic Image Search Engine](https://github.com/Dinesh1503/Semantic-Image-Search-Engine)**
-Local, privacy-preserving image retrieval — VLM caption generation → vector embeddings → cosine similarity search. No cloud, no API calls.
-
----
-
 ## 📚 Background
 
 - MSc Artificial Intelligence — University of Surrey
 - BSc Computer Science — University of Manchester
-- Interests: ML systems, computer vision, local-first AI tooling
+- Currently interning as a Data Analyst at ForgeDots Technologies
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/yourlinkedin) &nbsp;·&nbsp; 📧 youremail@gmail.com
