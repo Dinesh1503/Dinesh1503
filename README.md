@@ -41,4 +41,4 @@ Comparative study of 9 CNN, ViT, and hybrid architectures on 50,000 medical imag
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/yourlinkedin) &nbsp;·&nbsp; 📧 youremail@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/dinesh-kumar-selvam-4b610b193/) &nbsp;·&nbsp; 📧 dineshselvamst@gmail.com
