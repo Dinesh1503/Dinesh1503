@@ -37,7 +37,7 @@ Comparative study of 9 CNN, ViT, and hybrid architectures on 50,000 medical imag
 
 - MSc Artificial Intelligence — University of Surrey
 - BSc Computer Science — University of Manchester
-- Currently interning as a Data Analyst at ForgeDots Technologies
+- Currently working as a freelance developer
 
 ---
 
